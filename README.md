@@ -3,9 +3,7 @@
 # 1    系统分析
 
 ## 1.1  功能描述
-
- ![1690465836186](C:\Users\HZT\AppData\Local\Temp\1690465836186.png)
-
+![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/527cdcce-d1fc-4517-8fc6-9aa716018068)
 图 1‑1功能模块图
 
 图书管理系统根据功能划分如图 1‑1所示，本系统详细功能需求描述如下。
@@ -40,7 +38,8 @@
 
 ## 1.2  用例分析说明
 
- ![1690465854113](C:\Users\HZT\AppData\Local\Temp\1690465854113.png)  
+![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/ca435d8e-436a-4bde-b4fa-bf4d8df5d36a)
+
 
 图 1‑2登录与注册用例图
 
@@ -48,7 +47,8 @@
 
 普通用户只能查看文章、图书和对自己用户进行管理。
 
-   
+ ![1690467542442](https://github.com/Remi-hzt/BookArticle/assets/43429577/6fce9b04-1dcd-4dcf-abc5-97ca1159539e)
+  
 
 图 1‑3 功能用例图
 
@@ -60,15 +60,24 @@
 
 普通用户使用系统的活动图，包含查看文章、查看图书和下载图书以及修改密码。如图 2‑1所示。
 
-![1690466127702](../2008010717%20%E9%BB%84%E6%B3%BD%E5%A9%B7/assets/1690466127702.png)
+![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/888443ff-e2b3-4013-84dc-cf40ee7b0054)
 
 图 2‑1普通用户活动图
 
 管理员的系统的活动图，图书管理活动图如图 2‑2所示，文章管理活动图如图 2‑3所示，用户管理活动图如图 2‑4所示。
 
-| ![1690465869373](C:\Users\HZT\AppData\Local\Temp\1690465869373.png) | ![1690465881993](C:\Users\HZT\AppData\Local\Temp\1690465881993.png) | ![1690465887807](C:\Users\HZT\AppData\Local\Temp\1690465887807.png) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                     图 2‑2图书管理活动图                     |                     图 2‑3文章管理活动图                     |                     图 2‑4用户管理活动图                     |
+![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/c6182235-3c21-46bb-9df1-a2d9d97494c8)
+
+
+图 2‑2图书管理活动图
+
+![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/386bba50-a9b7-4f3f-9357-4d21acfae38d)
+
+图 2‑3文章管理活动图
+
+![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/330cddee-00b4-4251-9042-b2548077a7a9)
+
+图 2‑4用户管理活动图
 
 # 3    系统实现
 
@@ -126,50 +135,51 @@
 
 前台图书预览效果，如图 3‑1所示。在图书页面中，展示出图书的详情，并可下载图书，如图 3‑2所示。
 
- ![1690466155075](../2008010717%20%E9%BB%84%E6%B3%BD%E5%A9%B7/assets/1690466155075.png)
+![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/cc930cb8-68d6-4d92-ba3d-d4c5c7c3ea57)
+
 
 图 3‑1前台图书预览效果
 
-   ![1690466160409](../2008010717%20%E9%BB%84%E6%B3%BD%E5%A9%B7/assets/1690466160409.png)
+  ![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/9f550b9a-148f-4780-b460-be071565d81d)
 
 图 3‑2图书下载效果
 
 前台文章预览效果。在文章页面中，展示出文章信息，如图 3‑3所示。点击操作可以查看文章详细内容，如图 3‑4所示。
 
-![1690466238990](../2008010717%20%E9%BB%84%E6%B3%BD%E5%A9%B7/assets/1690466238990.png)
+![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/866fcecb-9475-45a5-bd91-abcb0df7af99)
 
 图 3‑3前台文章预览效果 
 
-![1690466258598](../2008010717%20%E9%BB%84%E6%B3%BD%E5%A9%B7/assets/1690466258598.png)
+![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/4ead95dc-8b67-451f-90b4-b7ed4a1bf915)
 
 图 3‑4前台文章内容预览效果 
 
 后台图书预览效果。在图书页面中展示出图书信息，如图 3‑5所示。新增图书信息，如图 3‑6所示。
 
-![1690466312958](../2008010717%20%E9%BB%84%E6%B3%BD%E5%A9%B7/assets/1690466312958.png)
+![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/a66357a9-56ba-43c1-a57e-bd520d856e92)
 
 图 3‑5后台图书预览效果 
 
-![1690466330085](../2008010717%20%E9%BB%84%E6%B3%BD%E5%A9%B7/assets/1690466330085.png)
+![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/e2ce8b39-4e66-4c29-b5b8-96b810d7ec4a)
 
 图 3‑6图书新增预览效果 
 
 后台文章预览效果，在文章页面中展示出文章信息，如图 3‑7所示。新增文章信息，如图 3‑8所示。
 
-![1690466565396](../2008010717%20%E9%BB%84%E6%B3%BD%E5%A9%B7/assets/1690466565396.png)
+![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/4e294c57-8c17-4b6e-a98d-06c8b752518f)
 
 图 3‑7后台文章预览效果 
 
-![1690466785711](../2008010717%20%E9%BB%84%E6%B3%BD%E5%A9%B7/assets/1690466785711.png)
+![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/94790c80-71f0-47f4-98f4-0fa5156d03f1)
 
 图 3‑8文章新增预览效果 
 
 用户管理预览效果，在用户页面中展示出用户信息，如图 3‑9所示。新增用户信息，如图 3‑10所示。
 
-![1690466818505](../2008010717%20%E9%BB%84%E6%B3%BD%E5%A9%B7/assets/1690466818505.png)
+![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/638e19ba-73e7-4721-9ce6-95f6b9c3e868)
 
 图 3‑9用户管理预览效果 
 
-![1690466835654](../2008010717%20%E9%BB%84%E6%B3%BD%E5%A9%B7/assets/1690466835654.png)
+![image](https://github.com/Remi-hzt/BookArticle/assets/43429577/5798a999-7420-46d3-9291-e8549f73edc1)
 
 图 3‑10用户新增管理新增效果 
