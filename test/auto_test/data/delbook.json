@@ -1,0 +1,44 @@
+[
+  {
+    "id": "6b36cdba-a988-4bbf-9190-c57fdc7af16c",
+    "fileId": "64ca7632c349a830fc6ed472",
+    "status": 200,
+    "code": 200,
+    "message":"成功"
+  },
+  {
+    "id": "",
+    "fileId": "64ca29a4b294272be896dfb0",
+    "status": 200,
+    "code": 400,
+    "message":"错误不能为空"
+  },
+  {
+    "id": "5c6722ab-6323-4cfc-8e93-60a6b10954ec",
+    "fileId": "",
+    "status": 200,
+    "code": 400,
+    "message":"错误不能为空"
+  },
+  {
+    "id": "123",
+    "fileId": "64ca29a4b294272be896dfb0",
+    "status": 200,
+    "code": 400,
+    "message":"错误"
+  },
+  {
+    "id": "5c6722ab-6323-4cfc-8e93-60a6b10954ec",
+    "fileId": "123123",
+    "status": 200,
+    "code": 400,
+    "message":"错误"
+  },
+  {
+    "id": "",
+    "fileId": "",
+    "status": 200,
+    "code": 400,
+    "message":"错误不能为空"
+  }
+]

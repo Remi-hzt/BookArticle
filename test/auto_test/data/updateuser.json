@@ -1,0 +1,50 @@
+[
+  {
+    "username":"remi",
+    "password":"123456",
+    "role":"ROLE_ADMIN",
+    "status": 200,
+    "code": 200,
+    "message":"成功"
+  },
+  {
+    "username":"",
+    "password":"123456",
+    "role":"ROLE_ADMIN",
+    "status": 200,
+    "code": 400,
+    "message":"错误"
+  },
+  {
+    "username":"remi",
+    "password":"",
+    "role":"ROLE_ADMIN",
+    "status": 200,
+    "code": 400,
+    "message":"错误"
+  },
+  {
+    "username":"qwerr123",
+    "password":"123456",
+    "role":"ROLE_ADMIN",
+    "status": 200,
+    "code": 400,
+    "message":"错误"
+  },
+  {
+    "username":"remi",
+    "password":"123456",
+    "role":"",
+    "status": 200,
+    "code": 400,
+    "message":"错误"
+  },
+  {
+    "username":"remi",
+    "password":"123456",
+    "role":"123",
+    "status": 200,
+    "code": 400,
+    "message":"错误"
+  }
+]

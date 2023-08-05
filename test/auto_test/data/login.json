@@ -1,0 +1,30 @@
+[
+  {
+    "username": "hzt",
+    "password": "123456",
+    "status": 200,
+    "code": 200,
+    "message":"成功"
+  },
+  {
+    "username": "",
+    "password": "123456",
+    "status": 200,
+    "code": 400,
+    "message":"密码错误或用户不存在"
+  },
+  {
+    "username": "123",
+    "password": "123456",
+    "status": 200,
+    "code": 400,
+    "message":"密码错误或用户不存在"
+  },
+  {
+    "username": "hzt",
+    "password": "asd123",
+    "status": 200,
+    "code": 400,
+    "message":"密码错误或用户不存在"
+  }
+]

@@ -1,0 +1,62 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1690990429352" stop="1690990429582">
+  <name>test01_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1690990429352" status="passed" stop="1690990429460">
+      <name>TestUpdateUser.test_login[hzt-123456-200-200-\u6210\u529f]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="用户登录模块"/>
+        <label name="feature" value="登录功能"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990429467" status="passed" stop="1690990429495">
+      <name>TestUpdateUser.test_login[-123456-200-400-\u5bc6\u7801\u9519\u8bef\u6216\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="用户登录模块"/>
+        <label name="feature" value="登录功能"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990429504" status="passed" stop="1690990429530">
+      <name>TestUpdateUser.test_login[123-123456-200-400-\u5bc6\u7801\u9519\u8bef\u6216\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="用户登录模块"/>
+        <label name="feature" value="登录功能"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990429547" status="passed" stop="1690990429582">
+      <name>TestUpdateUser.test_login[hzt-asd123-200-400-\u5bc6\u7801\u9519\u8bef\u6216\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="用户登录模块"/>
+        <label name="feature" value="登录功能"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

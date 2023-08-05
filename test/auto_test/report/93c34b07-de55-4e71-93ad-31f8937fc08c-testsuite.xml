@@ -1,0 +1,90 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1690990430112" stop="1690990431055">
+  <name>test03_insertUser</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1690990430112" status="passed" stop="1690990430493">
+      <name>TestInsertUser.test_insertUser[remi-123456-ROLE_ADMIN-200-400-\u7528\u6237\u540d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="用户新增"/>
+        <label name="feature" value="用户管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990430510" status="passed" stop="1690990430532">
+      <name>TestInsertUser.test_insertUser[-123456-ROLE_ADMIN-200-400-\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="用户新增"/>
+        <label name="feature" value="用户管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990430536" status="passed" stop="1690990430561">
+      <name>TestInsertUser.test_insertUser[remi--ROLE_ADMIN-200-400-\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="用户新增"/>
+        <label name="feature" value="用户管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990430564" status="passed" stop="1690990430965">
+      <name>TestInsertUser.test_insertUser[HZTAdmin-123456-ROLE_ADMIN-200-200-\u6210\u529f]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="用户新增"/>
+        <label name="feature" value="用户管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990430974" status="passed" stop="1690990431013">
+      <name>TestInsertUser.test_insertUser[remi-123456--200-400-\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="用户新增"/>
+        <label name="feature" value="用户管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990431024" status="passed" stop="1690990431055">
+      <name>TestInsertUser.test_insertUser[remi-123456-123-200-400-\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="用户新增"/>
+        <label name="feature" value="用户管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
