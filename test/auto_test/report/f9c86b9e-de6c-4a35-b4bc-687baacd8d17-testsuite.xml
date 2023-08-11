@@ -1,0 +1,230 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1690990432029" stop="1690990432798">
+  <name>test05_book</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1690990432029" status="passed" stop="1690990432179">
+      <name>TestBook.test_addbook[test-test\u7b80\u4ecb-BBC\u838e\u58eb\u6bd4\u4e9a\u5b57\u5e55.pdf-\u6d4b\u8bd5\u4f5c\u8005-G:/BBC\u838e\u58eb\u6bd4\u4e9a\u5b57\u5e55.pdf-200-200-\u6210\u529f]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="新增图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990432183" status="passed" stop="1690990432215">
+      <name>TestBook.test_updatebook[7d03c89f-75df-4062-9aac-4576873f262a-\u6d4b\u8bd5\u4fee\u6539\u56fe\u4e66\u540d\u79f02-\u6d4b\u8bd5\u4fee\u6539\u56fe\u4e66\u7b80\u4ecb2-\u6d4b\u8bd5\u4fee\u6539\u56fe\u4e66\u4f5c\u80052-200-200-\u6210\u529f]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990432234" status="passed" stop="1690990432261">
+      <name>TestBook.test_updatebook[-\u81ea\u52a8\u6d4b\u8bd5\u4fee\u6539-\u81ea\u52a8\u6d4b\u8bd5\u4fee\u6539\u7b80\u4ecb-\u81ea\u52a8\u6d4b\u8bd5\u4fee\u6539\u4f5c\u8005-200-400-\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990432265" status="passed" stop="1690990432294">
+      <name>TestBook.test_updatebook[3d54a1cb-7e02-4c54-af20-fd092e19e8b4--\u81ea\u52a8\u6d4b\u8bd5\u4fee\u6539\u7b80\u4ecb-\u81ea\u52a8\u6d4b\u8bd5\u4fee\u6539\u4f5c\u8005-200-400-\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990432297" status="passed" stop="1690990432337">
+      <name>TestBook.test_updatebook[3d54a1cb-7e02-4c54-af20-fd092e19e8b4----200-400-\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990432342" status="passed" stop="1690990432373">
+      <name>TestBook.test_updatebook[3d54a1cb-7e02-4c54-af20-fd092e19e8b4-\u81ea\u52a8\u6d4b\u8bd5\u4fee\u6539---200-400-\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990432377" status="passed" stop="1690990432411">
+      <name>TestBook.test_updatebook[123123213--\u81ea\u52a8\u6d4b\u8bd5\u4fee\u6539\u7b80\u4ecb-\u81ea\u52a8\u6d4b\u8bd5\u4fee\u6539\u4f5c\u8005-200-400-\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990432415" status="passed" stop="1690990432449">
+      <name>TestBook.test_updatebook[3d54a1cb-7e02-4c54-af20-fd092e19e8b4-\u81ea\u52a8\u6d4b\u8bd5\u4fee\u6539--4456-200-400-\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990432457" status="passed" stop="1690990432492">
+      <name>TestBook.test_updatebook[----200-400-\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990432496" status="passed" stop="1690990432530">
+      <name>TestBook.test_downbook[asd.pdf-64c9e3180052d86f9ab54d7a-200]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="下载图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990432534" status="passed" stop="1690990432637">
+      <name>TestBook.test_delbook[6b36cdba-a988-4bbf-9190-c57fdc7af16c-64ca7632c349a830fc6ed472-200-200-\u6210\u529f]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="删除图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990432640" status="passed" stop="1690990432665">
+      <name>TestBook.test_delbook[-64ca29a4b294272be896dfb0-200-400-\u9519\u8bef\u4e0d\u80fd\u4e3a\u7a7a]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="删除图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990432671" status="passed" stop="1690990432696">
+      <name>TestBook.test_delbook[5c6722ab-6323-4cfc-8e93-60a6b10954ec--200-400-\u9519\u8bef\u4e0d\u80fd\u4e3a\u7a7a]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="删除图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990432701" status="passed" stop="1690990432734">
+      <name>TestBook.test_delbook[123-64ca29a4b294272be896dfb0-200-400-\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="删除图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990432738" status="passed" stop="1690990432769">
+      <name>TestBook.test_delbook[5c6722ab-6323-4cfc-8e93-60a6b10954ec-123123-200-400-\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="删除图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990432773" status="passed" stop="1690990432798">
+      <name>TestBook.test_delbook[--200-400-\u9519\u8bef\u4e0d\u80fd\u4e3a\u7a7a]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="删除图书"/>
+        <label name="feature" value="图书管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

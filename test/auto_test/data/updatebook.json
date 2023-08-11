@@ -1,0 +1,75 @@
+[
+  {
+    "id": "7d03c89f-75df-4062-9aac-4576873f262a",
+    "bookname": "测试修改图书名称2",
+    "bookbrief": "测试修改图书简介2",
+    "author": "测试修改图书作者2",
+    "status": 200,
+    "code": 200,
+    "message":"成功"
+  },
+  {
+    "id": "",
+    "bookname": "自动测试修改",
+    "bookbrief": "自动测试修改简介",
+    "author": "自动测试修改作者",
+    "status": 200,
+    "code": 400,
+    "message":"错误"
+  },
+  {
+    "id": "3d54a1cb-7e02-4c54-af20-fd092e19e8b4",
+    "bookname": "",
+    "bookbrief": "自动测试修改简介",
+    "author": "自动测试修改作者",
+    "status": 200,
+    "code": 400,
+    "message":"错误"
+  },
+  {
+    "id": "3d54a1cb-7e02-4c54-af20-fd092e19e8b4",
+    "bookname": "",
+    "bookbrief": "",
+    "author": "",
+    "status": 200,
+    "code": 400,
+    "message":"错误"
+  },
+  {
+    "id": "3d54a1cb-7e02-4c54-af20-fd092e19e8b4",
+    "bookname": "自动测试修改",
+    "bookbrief": "",
+    "author": "",
+    "status": 200,
+    "code": 400,
+    "message":"错误"
+  },
+  {
+    "id": "123123213",
+    "bookname": "",
+    "bookbrief": "自动测试修改简介",
+    "author": "自动测试修改作者",
+    "status": 200,
+    "code": 400,
+    "message":"错误"
+  },
+  {
+    "id": "3d54a1cb-7e02-4c54-af20-fd092e19e8b4",
+    "bookname": "自动测试修改",
+    "bookbrief": "",
+    "author": "4456",
+    "status": 200,
+    "code": 400,
+    "message":"错误"
+  },
+
+  {
+    "id": "",
+    "bookname": "",
+    "bookbrief": "",
+    "author": "",
+    "status": 200,
+    "code": 400,
+    "message":"错误"
+  }
+]

@@ -1,0 +1,62 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1690990429597" stop="1690990430085">
+  <name>test02_forgetpwd</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1690990429597" status="passed" stop="1690990429966">
+      <name>TestForgetPwd.test_forgetpwd[remi-asdasd123-200-200-\u6210\u529f]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="忘记密码"/>
+        <label name="feature" value="用户管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990429969" status="passed" stop="1690990429994">
+      <name>TestForgetPwd.test_forgetpwd[remi--200-400-\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="忘记密码"/>
+        <label name="feature" value="用户管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990429997" status="passed" stop="1690990430024">
+      <name>TestForgetPwd.test_forgetpwd[-123456-200-400-\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="忘记密码"/>
+        <label name="feature" value="用户管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1690990430050" status="passed" stop="1690990430085">
+      <name>TestForgetPwd.test_forgetpwd[qweee-123456-200-400-\u7528\u6237\u540d\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="忘记密码"/>
+        <label name="feature" value="用户管理"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10760-MainThread"/>
+        <label name="host" value="DESKTOP-4JRRTT5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
